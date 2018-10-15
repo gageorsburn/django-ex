@@ -1,4 +1,5 @@
 # Openshift quickstart: Django
+This should trigger a new build on openshift.
 
 This is a [Django](http://www.djangoproject.com) project that you can use as the starting point to develop your own and deploy it on an [OpenShift](https://github.com/openshift/origin) cluster.
 
